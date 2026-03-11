@@ -33,7 +33,7 @@ Download EmailShield Pro for free from the [Microsoft Store](https://apps.micros
 
 EmailShield Pro stores all data locally on your device. No data is ever transmitted to external servers.
 
-[Privacy Policy](https://hbolitho.github.io/EmailShieldPro/privacy-policy.html)
+[Privacy Policy](https://hbolitho.github.io/EmailShieldPro/privacy-policy)
 
 ## Support
 
